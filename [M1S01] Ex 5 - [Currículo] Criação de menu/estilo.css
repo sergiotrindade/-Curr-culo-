@@ -1,0 +1,19 @@
+#avatar {
+  height: 100px;
+  border-radius: 15%;
+  box-shadow: 20px 20px 10px grey;
+}
+
+body {
+  color: rgba(213, 250, 3, 0.973);
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(0, 0, 0, 0.911);
+}
+.linkA {
+  color: rgb(247, 247, 247);
+}
+
+.nav01 {
+  display: flex;
+}
+
